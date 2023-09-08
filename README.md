@@ -9,9 +9,9 @@
 
 ###
 
-<!-- <div align="right">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=Iryna-Bigdash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-</div> -->
+</div>
 
 <h3>👩‍💻 About Me</h3>
 
