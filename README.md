@@ -6,23 +6,14 @@
 
 <div style="max-width: 900px; margin: 0 auto; display: flex; justify-content: space-between;">
 <div>
-
-###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=Iryna-Bigdash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
-</div>
-
-<h3>👩‍💻 About Me</h3>
+<h2>👩‍💻 About Me</h2>
 
 ###
 
 <p align="left">My name is Iryna.<br>I'm a passionate Full Stack Developer from Ukraine. 🇺🇦<br>My journey in the tech world began when I embarked on a year-long learning adventure with GoIT, a journey that has been incredibly rewarding.<br>- 🔭 I'm known for my persistence and love for tackling new challenges because I believe they are opportunities for growth and development.<br>- 📚 While I'm currently honing my skills as a developer, I'm also passionate about Node.js.<br>- 🔭 I’m working on exciting projects that allow me to apply my knowledge and skills.<br>- 📚 I'm constantly learning and staying up-to-date with the latest technologies.<br>- ⚡ In my free time, I enjoy exploring new technologies, coding, and collaborating on open-source projects.<br><br>I'm thrilled to be part of the tech community and look forward to contributing more to this ever-evolving field.</p>
-<img align="right" style="position: absolute; top: 50px; right: 0;" height="100" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue"  />
+
+<img align="right" style="position: absolute; top: 100px; right: 0;" height="100" src="https://res.cloudinary.com/devpost/image/fetch/s--KP5oRp25--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://github.com/npentrel/octoclippy/blob/master/gifs/tentacles.gif%3Fraw%3Dtrue"  />
 </div>
-
-###
-
 </div>
 
 ###
@@ -36,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Iryna-Bigdash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iryna-Bigdash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude=TypeScript" height="150" alt="languages graph"  />
 </div> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Iryna-Bigdash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
 
 ###
 
